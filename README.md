@@ -1,5 +1,5 @@
 # A Finite Element solver for the axisymmetric Poisson-Nernst-Planck equation in cylindrical pores.
-The solver is built to study pore charging in a axisymmetric geometries.
+The solver is built to study pore charging in axisymmetric geometries.
 
 ## Dependencies
 The solver is built with `FEniCS 2019`.
