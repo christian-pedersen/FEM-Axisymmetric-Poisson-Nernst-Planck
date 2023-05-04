@@ -5,7 +5,7 @@ The solver is built to study pore charging in a axisymmetric geometries.
 The solver is built with `FEniCS 2019`.
 
 
-If you find our work useful and build up on it, please consider citing this article:
+If you find our work useful and build upon it, please consider citing this article:
 
 ```
 Pedersen, Aslyamov, Janssen
