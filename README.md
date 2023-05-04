@@ -8,7 +8,7 @@ The solver is built with `FEniCS 2019`.
 If you find our work useful and build up on it, please consider citing this article:
 
 ```
-Janssen, Aslyamov, Pedersen
-"Equivalent circuits and continuum models for porous electrode charging"
+Pedersen, Aslyamov, Janssen
+"Equivalent circuit and continuum modeling of the impedance of electrolyte-filled pores"
 Soon on arxiv (----).
 ```
