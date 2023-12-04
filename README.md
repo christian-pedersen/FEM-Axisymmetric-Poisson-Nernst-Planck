@@ -10,5 +10,5 @@ If you find our work useful and build upon it, please consider citing this artic
 ```
 Pedersen, Aslyamov, Janssen
 "Equivalent circuit and continuum modeling of the impedance of electrolyte-filled pores"
-[Arxiv version](arxiv.org/pdf/2305.02766.pdf) .
+[PRX Energy Open Access](https://journals.aps.org/prxenergy/abstract/10.1103/PRXEnergy.2.043006) .
 ```
